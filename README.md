@@ -1,14 +1,14 @@
 # 📚 Caderno Temático: GRC, Segurança da Informação e IA
 
-> Projeto de estudo e experimentação sobre **Governança, Riscos e Compliance (GRC)**, utilizando Inteligência Artificial como ferramenta de apoio à análise, síntese e consulta de frameworks e documentos técnicos.
+> Projeto de estudo e experimentação sobre Governança, Riscos e Compliance (GRC), utilizando Inteligência Artificial como ferramenta de apoio à análise, síntese e consulta de frameworks e documentos técnicos.
 
 ## 🎯 Sobre o Projeto
 
-Este projeto foi desenvolvido com o objetivo de explorar conceitos de **Governança, Gestão de Riscos, Compliance e Segurança da Informação**, combinando referências reconhecidas do mercado com o uso de **Inteligência Artificial generativa**.
+Este projeto foi desenvolvido com o objetivo de explorar conceitos de Governança, Gestão de Riscos, Compliance e Segurança da Informação, combinando referências reconhecidas do mercado com o uso de Inteligência Artificial generativa.
 
-A proposta foi utilizar o **NotebookLM** para criar uma base de conhecimento fundamentada em documentos oficiais, testar diferentes estratégias de prompting e avaliar como a qualidade das instruções influencia a precisão, profundidade e utilidade das respostas geradas pela IA.
+A proposta foi utilizar o NotebookLM para criar uma base de conhecimento fundamentada em documentos oficiais, testar diferentes estratégias de prompting e avaliar como a qualidade das instruções influencia a precisão, profundidade e utilidade das respostas geradas pela IA.
 
-Além do estudo conceitual, o projeto busca demonstrar uma abordagem prática de utilização responsável da IA em contextos relacionados a **GRC, Cybersecurity e Privacidade de Dados**.
+Além do estudo conceitual, o projeto busca demonstrar uma abordagem prática de utilização responsável da IA em contextos relacionados a GRC, Cybersecurity e Privacidade de Dados.
 
 ---
 
@@ -18,20 +18,20 @@ Frameworks de segurança, gestão de riscos e documentos regulatórios costumam 
 
 O desafio deste projeto foi investigar:
 
-**Como utilizar IA generativa para transformar documentos complexos de GRC e Segurança da Informação em conhecimento estruturado, consultável e útil, sem perder a rastreabilidade das fontes?**
+Como utilizar IA generativa para transformar documentos complexos de GRC e Segurança da Informação em conhecimento estruturado, consultável e útil, sem perder a rastreabilidade das fontes?
 
 ---
 
 ## 🎯 Objetivos
 
-* Compreender os fundamentos de **Governança, Riscos e Compliance**.
+* Compreender os fundamentos de Governança, Riscos e Compliance.
 * Analisar a relação entre GRC, Segurança da Informação e Proteção de Dados.
-* Explorar o **NIST Cybersecurity Framework 2.0**, o **COSO ERM** e orientações da **ANPD**.
+* Explorar o NIST Cybersecurity Framework 2.0, o COSO ERM e orientações da ANPD.
 * Utilizar o NotebookLM como ferramenta de análise de documentos.
-* Experimentar técnicas de **engenharia de prompts**.
+* Experimentar técnicas de engenharia de prompts.
 * Identificar limitações e possíveis alucinações de modelos de IA.
 * Criar prompts reutilizáveis para estudos, entrevistas e análises futuras.
-* Desenvolver uma base de conhecimento que possa evoluir para projetos de **Cyber GRC e Cloud Security**.
+* Desenvolver uma base de conhecimento que possa evoluir para projetos de Cyber GRC e Cloud Security.
 
 ---
 
@@ -50,6 +50,19 @@ O desafio deste projeto foi investigar:
 * Análise e validação de fontes
 
 ---
+## 🎥 Video Overview
+
+Como parte deste projeto, desenvolvi um **Video Overview no NotebookLM**, utilizando as mesmas fontes oficiais selecionadas para o estudo.
+
+O vídeo apresenta de forma visual a relação entre **Governança, Gestão de Riscos, Compliance e Segurança da Informação**, com base no NIST CSF 2.0, nas orientações da ANPD e no COSO ERM.
+
+▶️ **[Assistir ao Video Overview no NotebookLM](https://notebook.google.com/notebook/8204594c-ddf5-454d-bdbc-41daaedbb3cf/artifact/c45cb4d9-3d43-4401-93a3-142c9903969a?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1)**
+
+> O vídeo foi gerado com apoio de IA a partir das fontes utilizadas neste projeto e faz parte do experimento de uso de IA generativa aplicada a GRC.
+
+
+---
+
 
 ## 📂 Curadoria de Fontes
 
@@ -59,17 +72,17 @@ Para alimentar o NotebookLM, foram selecionadas fontes oficiais e reconhecidas n
 
 Framework para gerenciamento de riscos de segurança cibernética.
 
-O **NIST CSF 2.0** organiza seus resultados de segurança em seis funções:
+O NIST CSF 2.0 organiza seus resultados de segurança em seis funções:
 
 `GOVERN → IDENTIFY → PROTECT → DETECT → RESPOND → RECOVER`
 
-A inclusão da função **Govern** na versão 2.0 reforça a relação entre segurança cibernética, estratégia organizacional, responsabilidades e gestão de riscos.
+A inclusão da função Govern na versão 2.0 reforça a relação entre segurança cibernética, estratégia organizacional, responsabilidades e gestão de riscos.
 
 ---
 
 ### 2. Guia Orientativo de Segurança da Informação da ANPD
 
-Material da Autoridade Nacional de Proteção de Dados direcionado principalmente aos **agentes de tratamento de pequeno porte**.
+Material da Autoridade Nacional de Proteção de Dados direcionado principalmente aos agentes de tratamento de pequeno porte.
 
 O documento apresenta orientações sobre medidas administrativas e técnicas de segurança da informação relacionadas à proteção de dados pessoais.
 
@@ -77,7 +90,7 @@ O documento apresenta orientações sobre medidas administrativas e técnicas de
 
 ### 3. COSO ERM — Enterprise Risk Management
 
-Referência para **gestão de riscos corporativos**, com abordagem integrada à estratégia e ao desempenho organizacional.
+Referência para gestão de riscos corporativos, com abordagem integrada à estratégia e ao desempenho organizacional.
 
 O COSO ERM ajuda a compreender como os riscos devem ser considerados não apenas como ameaças isoladas, mas como elementos relacionados aos objetivos, decisões e desempenho da organização.
 
@@ -107,7 +120,7 @@ Construção da base de conhecimento
 
 Um princípio orientou todo o experimento:
 
-> **A IA auxilia na análise, mas a fonte original permanece como referência para validação.**
+> A IA auxilia na análise, mas a fonte original permanece como referência para validação.
 
 ---
 
@@ -137,7 +150,7 @@ Não houve conexão suficiente entre:
 
 Perguntas muito amplas aplicadas a documentos técnicos tendem a produzir respostas igualmente amplas.
 
-**Prompt genérico → resposta genérica.**
+Prompt genérico → resposta genérica.
 
 ---
 
@@ -186,7 +199,7 @@ Para reduzir esse comportamento, foi adicionada uma restrição explícita:
 
 ### Aprendizado
 
-Em aplicações relacionadas a **GRC, Compliance, Segurança e Privacidade**, fluência não significa necessariamente precisão.
+Em aplicações relacionadas a GRC, Compliance, Segurança e Privacidade, fluência não significa necessariamente precisão.
 
 Por isso, respostas geradas por IA devem passar por:
 
@@ -201,7 +214,7 @@ Por isso, respostas geradas por IA devem passar por:
 
 ## 🏛️ Governança — A Direção
 
-Governança estabelece **como a organização é dirigida, supervisionada e responsabilizada**.
+Governança estabelece como a organização é dirigida, supervisionada e responsabilizada.
 
 Envolve elementos como:
 
@@ -213,7 +226,7 @@ Envolve elementos como:
 * accountability;
 * alinhamento entre tecnologia e objetivos de negócio.
 
-**Analogia:** é o volante que determina para onde a organização pretende ir.
+Analogia: é o volante que determina para onde a organização pretende ir.
 
 ---
 
@@ -237,7 +250,7 @@ Exemplos no contexto de segurança:
 * configuração inadequada de recursos;
 * acesso não autorizado.
 
-**Analogia:** é o radar que ajuda a identificar obstáculos antes que eles comprometam o caminho.
+Analogia: é o radar que ajuda a identificar obstáculos antes que eles comprometam o caminho.
 
 ---
 
@@ -254,7 +267,7 @@ Compliance está relacionado à conformidade da organização com:
 
 No contexto de proteção de dados no Brasil, a **LGPD** é uma das principais referências regulatórias.
 
-**Analogia:** são as regras que determinam quais limites precisam ser respeitados durante o percurso.
+Analogia: são as regras que determinam quais limites precisam ser respeitados durante o percurso.
 
 ---
 
@@ -296,11 +309,11 @@ O **Compliance** auxilia na verificação de que leis, normas, políticas e requ
 
 ### Risco Inerente
 
-Nível de risco existente **antes da aplicação dos controles** destinados a reduzi-lo.
+Nível de risco existente antes da aplicação dos controles destinados a reduzi-lo.
 
 ### Risco Residual
 
-Nível de risco que permanece **após a implementação e consideração da efetividade dos controles**.
+Nível de risco que permanece após a implementação e consideração da efetividade dos controles.
 
 ### Controle
 
