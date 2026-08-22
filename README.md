@@ -1,5 +1,7 @@
 # 📚 Caderno Temático: GRC, Segurança da Informação e IA
 
+GRC NIST CSF 2.0 LGPD Cybersecurity AI NotebookLM
+
 > Projeto de estudo e experimentação sobre Governança, Riscos e Compliance (GRC), utilizando Inteligência Artificial como ferramenta de apoio à análise, síntese e consulta de frameworks e documentos técnicos.
 
 ## 🎯 Sobre o Projeto
